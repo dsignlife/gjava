@@ -1,1 +1,1 @@
-# gjava for gul assigntments
+# gjava repository for gul assignments
