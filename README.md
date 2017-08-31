@@ -1,1 +1,0 @@
-# gjava repository for gul assignments
