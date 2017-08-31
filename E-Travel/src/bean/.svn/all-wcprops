@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/e-travel/!svn/ver/92/trunk/src/bean
+END
+PackageInner.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/e-travel/!svn/ver/78/trunk/src/bean/PackageInner.java
+END
+Flight.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/e-travel/!svn/ver/92/trunk/src/bean/Flight.java
+END
+Destination.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/e-travel/!svn/ver/82/trunk/src/bean/Destination.java
+END
+TopSearched.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/e-travel/!svn/ver/90/trunk/src/bean/TopSearched.java
+END
+Day.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/e-travel/!svn/ver/82/trunk/src/bean/Day.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/e-travel/!svn/ver/6/trunk/src/bean/City.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/e-travel/!svn/ver/92/trunk/src/bean/Place.java
+END
+Inner.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/e-travel/!svn/ver/6/trunk/src/bean/Inner.java
+END
+Package.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/e-travel/!svn/ver/82/trunk/src/bean/Package.java
+END
+Hotel.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/e-travel/!svn/ver/92/trunk/src/bean/Hotel.java
+END
+PackageCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/e-travel/!svn/ver/76/trunk/src/bean/PackageCity.java
+END
+SelectedInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/e-travel/!svn/ver/82/trunk/src/bean/SelectedInformation.java
+END

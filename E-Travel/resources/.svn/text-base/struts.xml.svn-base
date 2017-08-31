@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+ 
+<struts>
+    <constant name="struts.enable.DynamicMethodInvocation"
+        value="false" />
+    <constant name="struts.devMode" value="false" />
+    <constant name="struts.custom.i18n.resources"
+        value="ApplicationResources" />
+ 
+    <package name="default" extends="struts-default" namespace="">
+
+        <action name="*HomePage" class="action.HomePage" method="{1}">
+            <result name="success">HomePage.jsp</result>
+            <result name="package">PackageResult.jsp</result>
+            <result name="flight">ResultPage.jsp</result>
+        </action>
+        <action name="*MainPage" class="action.MainPage" method="{1}">
+            <result name="city">MainPage.jsp</result>
+            <result name="success">ResultPage.jsp</result>
+        </action>
+        <action name="*PlaceSearch" class="action.PlaceSearch" method="{1}">
+            <result name="place">PlaceSearch.jsp</result>
+            <result name="success">ResultPage.jsp</result>
+        </action>
+        <action name="*SearchHotel" class="action.SearchHotel" method="{1}">
+            <result name="hotel">SearchHotel.jsp</result>
+            <result name="success">SearchHotelResult.jsp</result>
+        </action>
+        <action name="*ResultPage" class="action.ResultPage" method="{1}">
+            <result name="success">ResultPage.jsp</result>
+            <result name="city">MainPage.jsp</result>
+        </action>
+        <action name="*PackageResult" class="action.PackageResult" method="{1}">
+            <result name="success">PackageResult.jsp</result>
+        </action>
+        <action name="*PackagePage" class="action.PackagePage" method="{1}">
+            <result name="success">PackagePage.jsp</result>
+            <result name="package">PackageResult.jsp</result>
+        </action>
+    </package>
+</struts>

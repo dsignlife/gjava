@@ -1,0 +1,40 @@
+9
+
+dir
+116
+https://riouxsvn.com/svn/etravel/trunk/src
+https://riouxsvn.com/svn/etravel
+
+
+
+2011-12-08T17:14:58.872977Z
+116
+khnapster
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9fb1751b-8f92-4d45-9368-1fe8e2e200e8
+
+app
+dir
+
+calculate
+dir
+
+dao
+dir
+
+template
+dir
+

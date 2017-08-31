@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<STYLE TYPE="text/css">
+/*
+@Author Lee
+*/
+<!--
+.where {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 3em;
+            font-weight: medium; }
+.borders {  border:0px solid #FF6633;
+            padding:3px 7px 2px 7px; }
+.image { overflow: hidden;  }
+h1       {  color: #FFFFFF;
+            font-family:"courier, arial";
+            font-size: 1.7em;
+            font-weight: 800;   }
+.headed       {  color: 000;
+            font-family:"courier, arial";
+            font-size: 1.6em;
+            font-weight: 600;}
+.subHead { color: #ffffff;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1em;
+            font-weight: medium; }
+.flights {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.3em;
+            font-weight: medium; 
+	    background-color:white;	
+             }
+.places {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.2em;
+            font-weight: 800; 
+	    background-color:white;}
+.catagories {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.1em;
+            font-weight: medium; 
+	    background-color:white;}
+.menubuttons { background-color:white; }
+
+.selections {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.2em;
+            font-weight: 600;
+	    position: relative; }
+.title {  text-decoration: bold;
+             color: ffffff; 
+             font-family:"courier, arial";
+             font-size: 1.2em;
+             font-weight: heavy; }  
+.packagetable { background-color: #faf6f3;
+                border-left: solid 30px #ffffff;
+                border-right: solid 30px #ffffff;
+                height: 40px;
+}
+.descriptions {  text-decoration: none;
+            color: #6c6c74;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1em;
+            font-weight: medium;
+	    background-color:#faf6f3;
+	    position: relative;}
+.packages   {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.1em;
+            font-weight: 500;
+	    position: relative; }
+.packageBig   {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.3em;
+            font-weight: 500;
+	    position: relative; }
+.packageSmall   {  text-decoration: none;
+            color: 000;
+            font-family:"Verdana,Georgia,Trebuchet";
+            font-size: 1.1em;
+            font-weight: 500;
+	    position: relative; }
+-->

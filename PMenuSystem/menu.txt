@@ -1,0 +1,20 @@
+0:-1:Root
+1:0:Self service
+2:0:Personal service
+3:0:Disconnect
+4:1:Stockmarket
+5:4:Buy (leaf)
+6:4:Sell (leaf)
+7:1:Accounts
+8:7:Current
+9:7:Savings
+10:8:Saldo (leaf)
+11:8:Transactions (leaf)
+12:9:Saldo (leaf)
+13:9:Transactions (leaf)
+14:7:Transfer (leaf)
+15:7:Withdraw (leaf)
+16:7:Deposit (leaf)
+17:7:Loans
+18:17:Overview (leaf)
+19:17:Take new (leaf)
